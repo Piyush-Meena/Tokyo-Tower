@@ -1,0 +1,4 @@
+    body {
+      margin: 0;
+      background-image: radial-gradient(ellipse at left, #000000, #000000), radial-gradient(ellipse at right, #000000, #000000);
+    }
